@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img src="image1" alt="Animated Welcome" width="600"/>
+</div>
+
+
+
+
 # Hi, I'm Nusrat 👋
 
 Welcome to my GitHub profile!  
