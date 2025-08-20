@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://www.google.com/search?sca_esv=d02a222cc2498b7b&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeuYzzFkfneXafNx6OMdA4MQRJc_t_TQjwHYrzlkIauOKTzpvcXVdkPIaX-Upd0ZycPDM_qkOUf_668mXon4VSLo2cAiRv1x6nTF5sIooMNuxanjibTSyIWprfZwWQsrLPY_E_WPnoJuABL_Tx454IIT84Xsn756j6rlEqnVoGB07wzCIjA&q=joey+tribbiani&sa=X&ved=2ahUKEwjo_4fEwpiPAxX9dmwGHTP2H48QtKgLegQIHBAB&biw=1920&bih=991&dpr=1#vhid=oFpdGRNDWTq2OM&vssid=mosaic" alt="Animated Welcome" width="600"/>
+  <img src= <img width="275" height="183" alt="imageOne" src="https://github.com/user-attachments/assets/1aab8418-84da-4d66-87fd-74aad645f3fb" />
+alt="Animated Welcome" width="600"/>
 </div>
 
 
