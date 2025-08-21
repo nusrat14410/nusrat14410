@@ -1,7 +1,8 @@
 
 <div align="center">
-  <img src="dana.jpg"
-alt="Animated Welcome" width="600"/>
+  <img src="[dana.jpg](https://github.com/user-attachments/assets/c334b8d9-7cba-4f49-a1c9-988ba06d4535)"
+alt="Animated Welc![dana]
+ome" width="600"/>
 </div>
 
 
