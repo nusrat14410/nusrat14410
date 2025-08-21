@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/1aab8418-84da-4d66-87fd-74aad645f3fb"
+  <img src="dana.jpg"
 alt="Animated Welcome" width="600"/>
 </div>
 
