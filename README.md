@@ -1,9 +1,7 @@
 
-<div align="center">
-  <img src="[dana.jpg](https://github.com/user-attachments/assets/c334b8d9-7cba-4f49-a1c9-988ba06d4535)"
-alt="Animated Welc![dana]
-ome" width="600"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7981A&center=true&vCenter=true&width=900&lines=Mobile+App+Developer+in+Training;Kotlin;Xml;C;Python;Android+Studio+User;Learning+Every+Day!" alt="Animated typing SVG">
+</p>
 
 
 
