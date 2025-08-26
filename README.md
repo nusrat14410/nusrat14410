@@ -6,15 +6,14 @@
 
 
 
-# Hi, I'm Nusrat 👋
+# Hi, I'm Nusrat Jahan Dana
 
-Welcome to my GitHub profile!  
-I'm passionate about technology, coding, and continuous learning.  
-Here you'll find my projects, contributions, and a glimpse into my professional journey.
+Welcome to my GitHub profile! Here's a quick overview of my journey and current status as a developer:
+
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm Nusrat, a dedicated developer with a keen interest in building robust applications and learning new technologies. My focus is on writing clean, efficient code and collaborating on open-source projects.
 
@@ -39,15 +38,15 @@ I'm Nusrat, a dedicated developer with a keen interest in building robust applic
 ## 💻 GitHub Stats
 
 <a href="https://github.com/neloy007/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=neloy007)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nusrat14410)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neloy007)](https://github.com/neloy007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neloy007)](https://github.com/nusrat14410)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=neloy0078&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neloy007)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nusrat14410)
 
-![GitHub metrics](https://metrics.lecoq.io/neloy007)
+![GitHub metrics](https://metrics.lecoq.io/nusrat14410)
 
 <div align="center">
 
