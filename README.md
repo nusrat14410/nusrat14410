@@ -38,8 +38,18 @@ I'm Nusrat, a dedicated developer with a keen interest in building robust applic
 
 ## 💻 GitHub Stats
 
-![Nusrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nusrat14410&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nusrat14410&layout=compact&theme=github_dark)
+<a href="https://github.com/neloy007/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=neloy007)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neloy007)](https://github.com/neloy007)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=neloy0078&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=neloy007)
+
+![GitHub metrics](https://metrics.lecoq.io/neloy007)
+
+<div align="center">
 
 ---
 
